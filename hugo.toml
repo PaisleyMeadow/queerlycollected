@@ -2,7 +2,7 @@ baseURL = 'https://queerlycollected.com/'
 languageCode = 'en-us'
 title = 'Queerly Collected'
 theme = 'hugo-universal-theme'
-themesDir = "themes"
+themesDir = 'themes'
 
 
 [caches]
