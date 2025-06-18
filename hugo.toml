@@ -3,3 +3,8 @@ languageCode = 'en-us'
 title = 'Queerly Collected'
 theme = 'hugo-universal-theme'
 themesDir = "themes"
+
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
