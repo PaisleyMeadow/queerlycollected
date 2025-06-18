@@ -2,3 +2,8 @@ baseURL = 'https://queerlycollected.com/'
 languageCode = 'en-us'
 title = 'Queerly Collected'
 theme = 'hugo-universal-theme'
+
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
