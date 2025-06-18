@@ -1,5 +1,6 @@
 baseURL = 'https://queerlycollected.com/'
 languageCode = 'en-us'
+defaultContentLanguage = "en"
 title = 'Queerly Collected'
 theme = 'hugo-universal-theme'
 themesDir = 'themes'
